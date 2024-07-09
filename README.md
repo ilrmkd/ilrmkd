@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is ILyat Ramkaddam
 #### I am a software engineering
-![I am a software engineering](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
  I am an engineering student specializing in computer engineering . I am passionate about software development and solving complex computing problems. I enjoy collaborating with diverse teams to design innovative solutions.
 
