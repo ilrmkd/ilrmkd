@@ -2,7 +2,7 @@
 #### I am a software engineering
  I am an engineering student specializing in computer engineering . I am passionate about software development and solving complex computing problems. I enjoy collaborating with diverse teams to design innovative solutions.
 
-Skills: Java (J2EE, Spring), JavaScript (JS), HTML, CSS, PHP, Node.js, C++, Python, C#, .Net, Bootstrap, MySQL, Oracle,Scrum, Gantt, PERT
+Skills: Java (J2EE, Spring), JavaScript (JS), HTML, CSS, PHP, Node.js, C++, Python, C#, .Net, React, Angular, Bootstrap, MySQL, Oracle, Scrum, Gantt, PERT
 
 - 🌱 I’m currently learning New technologies and advanced web development techniques 
 
