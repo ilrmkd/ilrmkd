@@ -7,6 +7,6 @@ Skills: Java (J2EE, Spring), JavaScript (JS), HTML, CSS, PHP, Node.js, C++, Pyth
 - 🌱 I’m currently learning New technologies and advanced web development techniques 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilrmk)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ilrmkd)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilrmk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilrmkd)](https://github.com/anuraghazra/github-readme-stats)
